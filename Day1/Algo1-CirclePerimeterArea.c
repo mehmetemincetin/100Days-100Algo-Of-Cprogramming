@@ -21,6 +21,7 @@ int main() {
     return 0;
 }
 /*
+**Özet**
 ----Yarıçapı kullanıcıdan alınan dairenin alanı,çevresini veren C Programı----
 Burada define yani önişlemci direktifi olarak türkçeye geçen kavram aslında bir sabitin tanımlanmasında görev alır
 #define PI 3.14159
