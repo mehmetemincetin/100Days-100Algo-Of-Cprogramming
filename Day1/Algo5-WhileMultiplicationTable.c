@@ -16,4 +16,6 @@ int main() {
     }
     return 0;
 }
-
+/*
+In this algorithm, I have printed the multiplication table as output using the while loop.
+*/
