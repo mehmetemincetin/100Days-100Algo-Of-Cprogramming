@@ -16,3 +16,7 @@ int main() {
     }
     return 0;
 }
+/*
+In this algorithm, the user adds the numbers entered until press 0, and when the user presses 0,
+the algorithm ends and the sum of all the numbers entered on the screen is printed.
+*/
