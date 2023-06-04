@@ -1,13 +1,3 @@
-/*
-----Yarıçapı kullanıcıdan alınan dairenin alanı,çevresini veren C Programı----
-Burada define yani önişlemci direktifi olarak türkçeye geçen kavram aslında bir sabitin tanımlanmasında görev alır
-#define PI 3.14159
-#define MAX_VALUE 100
-#define MESSAGE "Hello, world!"
-#define SUM(a, b) ((a) + (b))
-#define SEMBOLIK_AD deger
-şeklinde kullanımları mevcuttur yani sembolik ad ve sonra da değer şeklinde tanımlanır.
-*/
 
 #include <stdio.h>
 #define PI 3.14159
@@ -30,3 +20,13 @@ int main() {
     
     return 0;
 }
+/*
+----Yarıçapı kullanıcıdan alınan dairenin alanı,çevresini veren C Programı----
+Burada define yani önişlemci direktifi olarak türkçeye geçen kavram aslında bir sabitin tanımlanmasında görev alır
+#define PI 3.14159
+#define MAX_VALUE 100
+#define MESSAGE "Hello, world!"
+#define SUM(a, b) ((a) + (b))
+#define SEMBOLIK_AD deger
+şeklinde kullanımları mevcuttur yani sembolik ad ve sonra da değer şeklinde tanımlanır.
+*/
