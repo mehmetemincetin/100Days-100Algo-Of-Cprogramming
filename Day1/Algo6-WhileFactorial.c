@@ -16,3 +16,7 @@ int main() {
     printf("Sayının faktöryel değeri %d! = %d\n",sayi,faktoriyel);
     return 0;
 }
+/*
+--As a summary--
+In this algorithm, I printed the factorial value of the number I received from the user as an output on the screen.
+*/
