@@ -20,7 +20,7 @@ int main() {
         case NewGame: printf("Starting a new game...\n"); break;
         case SaveGame: printf("Saving the current game...\n"); break;
         case Exit: printf("Exit the game...\n"); break;
-        default: printf("Invalid choice!\n"); return 1;
+        default: printf("Invalid choice!\n"); break;
 
     }
     
