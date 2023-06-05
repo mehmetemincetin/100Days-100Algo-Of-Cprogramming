@@ -17,3 +17,8 @@ int main() {
     }
     return 0;
 }
+/*
+In this algorithm,I first defined number and i as int.
+Then I defined first = 0, second = 1 and next as int.
+Then I synchronized next = first + second,first = second,second = next in the for loop
+*/
