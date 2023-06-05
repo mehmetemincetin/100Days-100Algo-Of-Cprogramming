@@ -1,8 +1,3 @@
-/*Bu kodda int j ifadesini int i ifadesinin hemen altina yazdığımda
-program ikinci while kontrol ettirecekken üstünde sorgu yapabileceği
-int j ifadesini görmediği için 3 defa çalışıp sona eriyor.
-*/
-
 #include <stdio.h>
 
 int main() {
@@ -18,5 +13,9 @@ int main() {
  }
   return 0;
 }
+/*Bu kodda int j ifadesini int i ifadesinin hemen altina yazdığımda
+program ikinci while kontrol ettirecekken üstünde sorgu yapabileceği
+int j ifadesini görmediği için 3 defa çalışıp sona eriyor.
+*/
 
 
